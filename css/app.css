@@ -1,0 +1,19 @@
+
+
+
+
+
+.botao{
+    background: #999999;
+}
+.botao:hover{
+    background: #cc0000;
+}
+.no_space {
+    padding: 0;
+}
+
+#center {
+    margin-top: 50px;
+    margin-left: 399px;
+}
